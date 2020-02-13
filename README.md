@@ -41,7 +41,7 @@ Inspirujte se u jiných knihoven, například:
 
 Co je potřeba, aby si uživatel nainstaloval?
 
-V pythonu je zvykem závislosti specifikovat v souboru [requirements.txt](requirements.txt), ale o tom více v částí o
+V pythonu je zvykem závislosti specifikovat v souboru [requirements.txt](requirements.txt), ale o tom více v části o
 [python balíčcích](#jak-na-python-package). 
 
 ## Dokumentace
